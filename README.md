@@ -3,14 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/josephbarrigah)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/AzozoCode)
 
-I'm a Software Engineer with extensive experience in software development, solution design, and implementation of complex technical projects. I hold a BSc in Computer Science & Engineering from the University of Mines & Technology. I am a fast learner and thrive in environments that challenge me to solve complex problems.
+I'm a Software Engineer with extensive experience in software development, solution design, and implementation of complex technical projects. 
 
 ## 🔭 What I'm Currently Working On
 
-- [Pharmacy Management System](https://github.com/AzozoCode/pharmacy-management-system): A fully functional pharmacy management system developed using VB.NET.
-- [ERP System](https://github.com/AzozoCode/erp-system): A comprehensive Enterprise Resource Planning (ERP) system built with C#/.NET, React, TypeScript, and Tailwind.
+<!-- - [Pharmacy Management System](https://github.com/AzozoCode/pharmacy-management-system): A fully functional pharmacy management system developed using VB.NET.
+- [ERP System](https://github.com/AzozoCode/erp-system): A comprehensive Enterprise Resource Planning (ERP) system built with C#/.NET, React, TypeScript, and Tailwind. -->
 
-## 🌱 What I'm Currently Learning
+<!-- ## 🌱 What I'm Currently Learning
 
 I'm currently focused on improving my skills in:
 
@@ -26,29 +26,25 @@ I'm currently focused on improving my skills in:
 - Developed new features for the pharmacy management system application.
 - Developed a fully functional ERP (Enterprise Resource Planning) system using C#/.NET, React, TypeScript, and Tailwind.
 - Work with Git, including branching and merging strategies.
+ -->
+<!-- **Software Developer, Freelance** _(Sep 14, 2020 - Present)_
 
-**Software Developer, Freelance** _(Sep 14, 2020 - Present)_
-
-- Built websites and web applications for institutions and startups, ensuring client satisfaction and meeting requirements.
+- Built websites and web applications for institutions and startups, ensuring client satisfaction and meeting requirements. -->
 
 ## 🚀 My Tech Stack
 
-Here are some of the technologies and tools I work with:
+<!-- Here are some of the technologies and tools I work with:
 
-- Programming languages: C#, VB.NET, JavaScript
+ -Programming languages: C#, VB.NET, JavaScript
 - Frameworks and libraries: ASP.NET Core, React
 - Databases: MySQL, MS SQL,MONG0DB
 - Design Patterns: CQRS, MVC
 - API Specs: REST
 - Continuous Integration: GitHub Actions
-
+ -->
 ## 📫 How to Reach Me
 
 You can reach out to me via email at josephbarrigah@gmail.com. Feel free to connect with me on LinkedIn or explore my GitHub profile for more projects and contributions.
 
 I'm always open to interesting conversations, collaboration, and new opportunities.
-
-Languages: English & French (Elementary Level).
-
-Reference: Clement Sam - Senior Software Engineer at Storj
-Email: clementsam75@gmail.com
+ 
