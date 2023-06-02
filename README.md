@@ -17,9 +17,7 @@ I'm currently focused on improving my skills in:
 - CQRS (Command Query Responsibility Segregation) design pattern.
 - MVC (Model-View-Controller) architectural pattern.
 
-## 💼 My Work Experience
-
-**Software Engineer, Innorik Ghana Limited** _(Oct 04 - Present)_
+## 💼 My  Experience
 
 - Work as part of an agile team to deliver projects that meet requirements.
 - Develop industry-standard REST APIs using C#/ASP.NET Core, MySQL, and JWT that are efficient and adaptive to changes in requirements.
@@ -39,7 +37,7 @@ Here are some of the technologies and tools I work with:
 
 - Programming languages: C#, VB.NET, JavaScript
 - Frameworks and libraries: ASP.NET Core, React
-- Databases: MySQL, MS SQL
+- Databases: MySQL, MS SQL,MONG0DB
 - Design Patterns: CQRS, MVC
 - API Specs: REST
 - Continuous Integration: GitHub Actions
