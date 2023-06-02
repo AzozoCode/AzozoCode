@@ -5,7 +5,7 @@
 
 I'm a Software Engineer with extensive experience in software development, solution design, and implementation of complex technical projects. 
 
-## 🔭 What I'm Currently Working On
+<!-- ## 🔭 What I'm Currently Working On -->
 
 <!-- - [Pharmacy Management System](https://github.com/AzozoCode/pharmacy-management-system): A fully functional pharmacy management system developed using VB.NET.
 - [ERP System](https://github.com/AzozoCode/erp-system): A comprehensive Enterprise Resource Planning (ERP) system built with C#/.NET, React, TypeScript, and Tailwind. -->
@@ -31,8 +31,8 @@ I'm currently focused on improving my skills in:
 
 - Built websites and web applications for institutions and startups, ensuring client satisfaction and meeting requirements. -->
 
-## 🚀 My Tech Stack
-
+<!-- ## 🚀 My Tech Stack
+ -->
 <!-- Here are some of the technologies and tools I work with:
 
  -Programming languages: C#, VB.NET, JavaScript
